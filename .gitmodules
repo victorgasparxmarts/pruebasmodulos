@@ -1,0 +1,4 @@
+[submodule "phonecall-planner"]
+	path = phonecall-planner
+	url = git@github.com:victorgasparxmarts/phonecall-planner.git
+	branch = 13.0
